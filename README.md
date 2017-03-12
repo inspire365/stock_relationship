@@ -9,7 +9,11 @@
 
 那么求出a和b即可，利用numpy的polyfit函数可以非常方便地求出来。
 
-以 2017.03.02日后的数据可以得到下面的图：
+以 2017.03.02日后的数据可以得到
+
+_midea = 1.519 * gree - 9.923_
+
+画图可得：
 
 ![plot image](https://github.com/inspire365/stock_relationship/blob/master/mg.png)
 
